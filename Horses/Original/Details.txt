@@ -1,0 +1,5 @@
+k8ba8cp 
+200 epochs
+C:\Users\WOS\Documents\GANs\pytorch-CycleGAN-and-pix2pix-visual-studio\Original-Visual-Studio\results\horse2zebra_6\test_latest
+No changes
+8/6  
