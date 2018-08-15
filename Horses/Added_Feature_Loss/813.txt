@@ -1,0 +1,8 @@
+k8ba8cp 
+200 epochs
+C:\Users\WOS\source\repos\PythonApplication1\PythonApplication1\results\horse2zebra_debug_6\test_latest
+Added feature loss (gamma)
+	Incremented by .02 each epoch
+8/13   
+Overfitting, too much zebra and too many artifacts 
+

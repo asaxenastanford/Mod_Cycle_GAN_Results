@@ -1,0 +1,8 @@
+k8ba8cp 
+100 epochs
+C:\Users\WOS\source\repos\PythonApplication1\PythonApplication1\results\horse2zebra_exp1
+Added feature loss (gamma)
+Decrement lambda to 5 
+8/13   
+Super blurry results, possibly increase lambda bottom threshold and number of epochs? 
+
