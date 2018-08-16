@@ -1,0 +1,9 @@
+k8ba8cp 
+100 epochs
+C:\Users\WOS\source\repos\PythonApplication1\PythonApplication1\results\horse2zebra_exp2\test_latest
+Added feature loss (gamma)
+Underfitting, balloon-ing effect 
+if self.opt.gamma < 0.94 and self.opt.increase_gamma > 0:
+           self.opt.gamma = self.opt.gamma + 1/(self.opt.niter + self.opt.niter_decay) 
+
+8/16
